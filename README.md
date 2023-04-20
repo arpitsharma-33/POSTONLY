@@ -1,4 +1,4 @@
-# POSTONLY-look
+# POSTONLY
 
 https://github.com/arpitsharma-33/POSTONLY-client
 
